@@ -1,0 +1,16 @@
+pathParamQueryParam\PathParametersWithMap.class
+payload\PayloadAsMap2.class
+sampleAPI\Hamcrest.class
+assignment_01\TCCreateNewObject.class
+pathParamQueryParam\QueryParameters.class
+payload\PayloadAsPOJO.class
+payload\PayloadAsString.class
+pojo\SamplePoJo.class
+pathParamQueryParam\QueryParametersWithMap.class
+sampleAPI\GetAPI.class
+sampleAPI\GetAPI3.class
+pathParamQueryParam\PathParameters.class
+payload\PayloadAsFile.class
+payload\PayloadAsMap.class
+sampleAPI\GetAPI2.class
+assignment_01\TCGetObjectById.class

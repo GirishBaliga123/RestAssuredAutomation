@@ -1,0 +1,16 @@
+C:\RestAssuredPractice\RestAssured\src\test\java\assignment_01\TCCreateNewObject.java
+C:\RestAssuredPractice\RestAssured\src\test\java\assignment_01\TCGetObjectById.java
+C:\RestAssuredPractice\RestAssured\src\test\java\pathParamQueryParam\PathParameters.java
+C:\RestAssuredPractice\RestAssured\src\test\java\pathParamQueryParam\PathParametersWithMap.java
+C:\RestAssuredPractice\RestAssured\src\test\java\pathParamQueryParam\QueryParameters.java
+C:\RestAssuredPractice\RestAssured\src\test\java\pathParamQueryParam\QueryParametersWithMap.java
+C:\RestAssuredPractice\RestAssured\src\test\java\payload\PayloadAsFile.java
+C:\RestAssuredPractice\RestAssured\src\test\java\payload\PayloadAsMap.java
+C:\RestAssuredPractice\RestAssured\src\test\java\payload\PayloadAsMap2.java
+C:\RestAssuredPractice\RestAssured\src\test\java\payload\PayloadAsPOJO.java
+C:\RestAssuredPractice\RestAssured\src\test\java\payload\PayloadAsString.java
+C:\RestAssuredPractice\RestAssured\src\test\java\pojo\SamplePoJo.java
+C:\RestAssuredPractice\RestAssured\src\test\java\sampleAPI\GetAPI.java
+C:\RestAssuredPractice\RestAssured\src\test\java\sampleAPI\GetAPI2.java
+C:\RestAssuredPractice\RestAssured\src\test\java\sampleAPI\GetAPI3.java
+C:\RestAssuredPractice\RestAssured\src\test\java\sampleAPI\Hamcrest.java
